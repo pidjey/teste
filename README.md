@@ -4,3 +4,10 @@
 ```
 php artisan serve
 ```
+
+# Técnicas Utilizadas
+
+- TDD com feature & unit tests
+- Models, Migrations, Factory
+- API routes, Controller
+- Rest-like API design
